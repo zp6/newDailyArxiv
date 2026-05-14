@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 13, 2026
+title: Latest 15 Papers - May 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,25 +7,32 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](https://arxiv.org/abs/2605.13778v1)** | 2026-05-13 |  |
+| **[FrameSkip: Learning from Fewer but More Informative Frames in VLA Training](https://arxiv.org/abs/2605.13757v1)** | 2026-05-13 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/ZGC-EmbodyAI/FrameSkip</p></details> |
+| **[Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2605.13632v1)** | 2026-05-13 |  |
+| **[AttenA+: Rectifying Action Inequality in Robotic Foundation Models](https://arxiv.org/abs/2605.13548v1)** | 2026-05-13 |  |
+| **[RotVLA: Rotational Latent Action for Vision-Language-Action Model](https://arxiv.org/abs/2605.13403v1)** | 2026-05-13 |  |
+| **[BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning](https://arxiv.org/abs/2605.13382v1)** | 2026-05-13 |  |
+| **[What Limits Vision-and-Language Navigation ?](https://arxiv.org/abs/2605.13328v1)** | 2026-05-13 |  |
+| **[D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models](https://arxiv.org/abs/2605.13276v1)** | 2026-05-13 |  |
+| **[Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models](https://arxiv.org/abs/2605.13119v1)** | 2026-05-13 |  |
+| **[What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models](https://arxiv.org/abs/2605.13105v1)** | 2026-05-13 |  |
+| **[Driving Intents Amplify Planning-Oriented Reinforcement Learning](https://arxiv.org/abs/2605.12625v1)** | 2026-05-12 | <details><summary>Work ...</summary><p>Work in progress. Project page: https://mind-omni.github.io/</p></details> |
+| **[MindVLA-U1: VLA Beats VA with Unified Streaming Architecture for Autonomous Driving](https://arxiv.org/abs/2605.12624v1)** | 2026-05-12 | <details><summary>Work ...</summary><p>Work in progress. Project page: https://mind-omni.github.io/</p></details> |
 | **[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://arxiv.org/abs/2605.12500v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenSenseNova/SenseNova-U1</p></details> |
 | **[SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation](https://arxiv.org/abs/2605.12386v1)** | 2026-05-12 |  |
 | **[GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization](https://arxiv.org/abs/2605.12369v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to RSS 2026. Project page: https://guidedvla.github.io/project_page/</p></details> |
-| **[Reinforcing VLAs in Task-Agnostic World Models](https://arxiv.org/abs/2605.12334v1)** | 2026-05-12 |  |
-| **[Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete](https://arxiv.org/abs/2605.12160v1)** | 2026-05-12 |  |
-| **[World Action Models: The Next Frontier in Embodied AI](https://arxiv.org/abs/2605.12090v1)** | 2026-05-12 |  |
-| **[Learning Action Manifold with Multi-view Latent Priors for Robotic Manipulation](https://arxiv.org/abs/2605.11832v1)** | 2026-05-12 |  |
-| **[See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://arxiv.org/abs/2605.11817v1)** | 2026-05-12 |  |
-| **[Beyond World-Frame Action Heads: Motion-Centric Action Frames for Vision-Language-Action Models](https://arxiv.org/abs/2605.11809v1)** | 2026-05-12 |  |
-| **[DreamAvoid: Critical-Phase Test-Time Dreaming to Avoid Failures in VLA Policies](https://arxiv.org/abs/2605.11750v1)** | 2026-05-12 | 19 pages, 7 figures |
-| **[OOM-Free Alpamayo via CPU-GPU Memory Swapping for Vision-Language-Action Models](https://arxiv.org/abs/2605.11678v1)** | 2026-05-12 | <details><summary>Submi...</summary><p>Submitted to IEEE RTCSA on March 26, 2026 (KST); Accepted on May 4, 2026 (KST)</p></details> |
-| **[Dynamic Execution Commitment of Vision-Language-Action Models](https://arxiv.org/abs/2605.11567v1)** | 2026-05-12 | <details><summary>Code ...</summary><p>Code will be released in the next version</p></details> |
-| **[RIO: Flexible Real-Time Robot I/O for Cross-Embodiment Robot Learning](https://arxiv.org/abs/2605.11564v1)** | 2026-05-12 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables. Accepted to Robotics: Science and Systems (RSS) 2026</p></details> |
-| **[Offline Policy Evaluation for Manipulation Policies via Discounted Liveness Formulation](https://arxiv.org/abs/2605.11479v1)** | 2026-05-12 | <details><summary>Publi...</summary><p>Published at RSS 2026</p></details> |
-| **[Overcoming Dynamics-Blindness: Training-Free Pace-and-Path Correction for VLA Models](https://arxiv.org/abs/2605.11459v1)** | 2026-05-12 |  |
 
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedCore: Boundary-Preserving Medical Core Pruning for MedSAM](https://arxiv.org/abs/2605.13688v1)** | 2026-05-13 | 3 figures, 17 pages |
+| **[Cross Modality Image Translation In Medical Imaging Using Generative Frameworks](https://arxiv.org/abs/2605.13686v1)** | 2026-05-13 |  |
+| **[CA-GCL: Cross-Anatomy Global-Local Contrastive Learning for Robust 3D Medical Image Understanding](https://arxiv.org/abs/2605.13544v1)** | 2026-05-13 |  |
+| **[IndicMedDialog: A Parallel Multi-Turn Medical Dialogue Dataset for Accessible Healthcare in Indic Languages](https://arxiv.org/abs/2605.13292v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted in BioNLP @ ACL 2026 Conference</p></details> |
+| **[Large Language Models Lack Temporal Awareness of Medical Knowledge](https://arxiv.org/abs/2605.13045v1)** | 2026-05-13 | 35 pages, 18 figures |
+| **[Adaptive Conformal Prediction for Reliable and Explainable Medical Image Classification](https://arxiv.org/abs/2605.12917v1)** | 2026-05-13 | <details><summary>To ap...</summary><p>To appear in IEA/AIE 2026 (Springer LNAI)</p></details> |
+| **[CRAFT: Clinical Reward-Aligned Finetuning for Medical Image Synthesis](https://arxiv.org/abs/2605.12650v1)** | 2026-05-12 |  |
 | **[What Does It Mean for a Medical AI System to Be Right?](https://arxiv.org/abs/2605.11963v1)** | 2026-05-12 | <details><summary>Part ...</summary><p>Part of a PhD ethics course</p></details> |
 | **[Beyond Masks: The Case for Medical Image Parsing](https://arxiv.org/abs/2605.11438v1)** | 2026-05-12 |  |
 | **[USEMA: a Scalable Efficient Mamba Like Attention for Medical Image Segmentation](https://arxiv.org/abs/2605.11131v1)** | 2026-05-11 |  |
@@ -34,30 +41,23 @@ labels: documentation
 | **[Verification Mirage: Mapping the Reliability Boundary of Self-Verification in Medical VQA](https://arxiv.org/abs/2605.10850v1)** | 2026-05-11 | 31 pages, 12 figures |
 | **[GenMed: A Pairwise Generative Reformulation of Medical Diagnostic Tasks](https://arxiv.org/abs/2605.10645v1)** | 2026-05-11 |  |
 | **[DuetFair: Coupling Inter- and Intra-Subgroup Robustness for Fair Medical Image Segmentation](https://arxiv.org/abs/2605.10521v1)** | 2026-05-11 | 16 pages, 2 figures |
-| **[Knowledge Poisoning Attacks on Medical Multi-Modal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.10253v1)** | 2026-05-11 | Accepted by ACL 2026 |
-| **[Medical Incident Causal Factors and Preventive Measures Generation Using Tag-based Example Selection in Few-shot Learning](https://arxiv.org/abs/2605.10025v1)** | 2026-05-11 |  |
-| **[Med-StepBench: A Hierarchical Reasoning Framework for Evaluating Hallucinations in Medical Vision-Language Models](https://arxiv.org/abs/2605.10002v1)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted at IJCAI-ECAI 2026</p></details> |
-| **[Frequency Adapter with SAM for Generalized Medical Image Segmentation](https://arxiv.org/abs/2605.09925v1)** | 2026-05-11 | <details><summary>Under...</summary><p>Under review, 10 pages, 1 figure, 2 tables</p></details> |
-| **[DeepTumorVQA: A Hierarchical 3D CT Benchmark for Stage-Wise Evaluation of Medical VLMs and Tool-Augmented Agents](https://arxiv.org/abs/2605.09679v1)** | 2026-05-10 |  |
-| **[MedMeta: A Benchmark for LLMs in Synthesizing Meta-Analysis Conclusion from Medical Studies](https://arxiv.org/abs/2605.09661v1)** | 2026-05-10 |  |
-| **[LiteMedCoT-VL: Parameter-Efficient Adaptation for Medical Visual Question Answering](https://arxiv.org/abs/2605.09384v1)** | 2026-05-10 | 17 pages, 5 figures |
 
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://arxiv.org/abs/2605.12500v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenSenseNova/SenseNova-U1</p></details> |
-| **[GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization](https://arxiv.org/abs/2605.12369v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to RSS 2026. Project page: https://guidedvla.github.io/project_page/</p></details> |
-| **[Reinforcing VLAs in Task-Agnostic World Models](https://arxiv.org/abs/2605.12334v1)** | 2026-05-12 |  |
-| **[Towards Automated Air Traffic Safety Assessment Around Non-Towered Airports Using Large Language Models](https://arxiv.org/abs/2605.12332v1)** | 2026-05-12 | <details><summary>25 pa...</summary><p>25 pages, 17 figures, 5 tables, Accepted to AIAA 2026</p></details> |
-| **[Large-Small Model Collaboration for Farmland Semantic Change Detection](https://arxiv.org/abs/2605.12282v1)** | 2026-05-12 |  |
-| **[Beyond Text Prompts: Visual-to-Visual Generation as A Unified Paradigm](https://arxiv.org/abs/2605.12271v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project Page: https://yaofang-liu.github.io/V2V_Web</p></details> |
-| **[UHR-Micro: Diagnosing and Mitigating the Resolution Illusion in Earth Observation VLMs](https://arxiv.org/abs/2605.12237v1)** | 2026-05-12 |  |
-| **[MolDeTox: Evaluating Language Model's Stepwise Fragment Editing for Molecular Detoxification](https://arxiv.org/abs/2605.12181v1)** | 2026-05-12 |  |
-| **[Self-Consistent Latent Reasoning: Long Latent Sequence Reasoning for Vision-Language Model](https://arxiv.org/abs/2605.12163v1)** | 2026-05-12 | 17 pages, 6 figures |
-| **[Multimodal Abstractive Summarization of Instructional Videos with Vision-Language Models](https://arxiv.org/abs/2605.11959v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
-| **[Cluster-Aware Neural Collapse Prompt Tuning for Long-Tailed Generalization of Vision-Language Models](https://arxiv.org/abs/2605.11939v1)** | 2026-05-12 |  |
-| **[Mitigating Action-Relation Hallucinations in LVLMs via Relation-aware Visual Enhancement](https://arxiv.org/abs/2605.11808v1)** | 2026-05-12 |  |
-| **[Urban Risk-Aware Navigation via VQA-Based Event Maps for People with Low Vision](https://arxiv.org/abs/2605.11782v1)** | 2026-05-12 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, submitted to IEEE T-ITS</p></details> |
-| **[Allegory of the Cave: Measurement-Grounded Vision-Language Learning](https://arxiv.org/abs/2605.11727v1)** | 2026-05-12 |  |
-| **[CaC: Advancing Video Reward Models via Hierarchical Spatiotemporal Concentrating](https://arxiv.org/abs/2605.11723v1)** | 2026-05-12 | 27 pages, 10 figures |
+| **[Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2605.13835v1)** | 2026-05-13 |  |
+| **[Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context](https://arxiv.org/abs/2605.13831v1)** | 2026-05-13 | work in progress |
+| **[RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data](https://arxiv.org/abs/2605.13775v1)** | 2026-05-13 | On-going work |
+| **[SceneGraphVLM: Dynamic Scene Graph Generation from Video with Vision-Language Models](https://arxiv.org/abs/2605.13667v1)** | 2026-05-13 |  |
+| **[ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections](https://arxiv.org/abs/2605.13631v1)** | 2026-05-13 |  |
+| **[GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models](https://arxiv.org/abs/2605.13375v1)** | 2026-05-13 | 10 pages, 11 figures |
+| **[GeoFlowVLM: Geometry-Aware Joint Uncertainty for Frozen Vision-Language Embedding](https://arxiv.org/abs/2605.13352v1)** | 2026-05-13 |  |
+| **[KamonBench: A Grammar-Based Dataset for Evaluating Compositional Factor Recovery in Vision-Language Models](https://arxiv.org/abs/2605.13322v1)** | 2026-05-13 | Preprint |
+| **[HCSG: Human-Centric Semantic-Geometric Reasoning for Vision-Language Navigation](https://arxiv.org/abs/2605.13321v1)** | 2026-05-13 |  |
+| **[STAR: Semantic-Temporal Adaptive Representation Learning for Few-Shot Action Recognition](https://arxiv.org/abs/2605.13202v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</p></details> |
+| **[CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large VIsion-Language Models](https://arxiv.org/abs/2605.13178v1)** | 2026-05-13 | 18 pages, 8 figures |
+| **[A$_3$B$_2$: Adaptive Asymmetric Adapter for Alleviating Branch Bias in Vision-Language Image Classification with Few-Shot Learning](https://arxiv.org/abs/2605.13161v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2026</p></details> |
+| **[Dual-Pathway Circuits of Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2605.13156v1)** | 2026-05-13 |  |
+| **[Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models](https://arxiv.org/abs/2605.13119v1)** | 2026-05-13 |  |
+| **[Revealing the Gap in Human and VLM Scene Perception through Counterfactual Semantic Saliency](https://arxiv.org/abs/2605.13047v1)** | 2026-05-13 |  |
 
